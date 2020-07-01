@@ -1,0 +1,12 @@
+/.classpath
+/.project
+/.settings
+/eclipse-out
+/gitiles.config
+/.idea
+*.iml
+*~
+/bazel-bin
+/bazel-gitiles
+/bazel-out
+/bazel-testlogs
